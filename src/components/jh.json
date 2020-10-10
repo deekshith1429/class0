@@ -1,0 +1,35 @@
+[{
+    "id": 1,
+    "name": "kumar",
+    "email": "kumar@gmail.com",
+    "location": "INDIA"
+  },{
+    "id": 2,
+    "name": "Veeresh",
+    "email": "veeresh@gmail.com",
+    "location": "USA"
+  },
+  {
+    "id": 3,
+    "name": "Anitha",
+    "email": "anitha@gmail.com",
+    "location": "INDIA"
+  },
+  {
+    "id": 4,
+    "name": "Sidhardh",
+    "email": "sidhardh@gmail.com",
+    "location": "USA"
+  },
+  {
+    "id": 5,
+    "name": "Dhanush",
+    "email": "dhanush@gmail.com",
+    "location": "INDIA"
+  },
+  {
+    "id": 6,
+    "name": "Shasank",
+    "email": "shasank@gmail.com",
+    "location": "INDIA"
+  }]
